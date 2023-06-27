@@ -1,0 +1,19 @@
+body {
+    background-color: deeppink;
+}
+
+label {
+    float: left;
+    background-color: black;
+}
+
+span {
+    display: block;
+    overflow: hidden;
+    padding: 0 4px 0 6px;
+}
+
+input {
+    background-color: aqua;
+    width: 100%;
+}
